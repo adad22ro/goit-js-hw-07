@@ -2,20 +2,20 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://adad22ro.github.io/css-proiect-1",
+  "homepage": "https://adad22ro.github.io/goit-js-hw-07",
   "scripts": {
     "start": "parcel index.html",
-    "build": "parcel build index.html --public-url css/common.css"
+    "build": "parcel build index.html --public-url /goit-js-hw-07/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/adad22ro/css-proiect-1.git"
+    "url": "git+https://github.com/adad22ro/goit-js-hw-07.git"
   },
   "keywords": [],
   "author": "Rusu Andrei <gabirusu2000@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/adad22ro/css-proiect-1/issues"
+    "url": "https://github.com/adad22ro/goit-js-hw-07/issues"
   },
   "dependencies": {
     "basiclightbox": "^5.0.4",
